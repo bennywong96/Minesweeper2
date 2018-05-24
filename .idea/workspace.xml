@@ -82,11 +82,6 @@
               <item name="Minesweeper2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Minesweeper2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Minesweeper2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Minesweeper2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -209,7 +204,7 @@
       <option name="presentableId" value="Default" />
       <updated>1527158909863</updated>
       <workItem from="1527158912580" duration="888000" />
-      <workItem from="1527161774798" duration="169000" />
+      <workItem from="1527161774798" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;george commit&quot;">
       <created>1527161856005</created>
@@ -225,11 +220,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527161905497</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;added game class&quot;">
+      <created>1527161954389</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1527161954389</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1057000" />
+    <option name="totallyTimeSpent" value="1188000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -271,7 +273,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;george commit&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;george commit&quot;" />
+    <MESSAGE value="&quot;added game class&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;added game class&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
